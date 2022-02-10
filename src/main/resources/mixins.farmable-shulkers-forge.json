@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.bnw.farmableshulkers.mixin",
+  "refmap": "mixins.farmable-shulkers-forge.refmap.json",
+  "mixins": [
+    "MixinShulkerEntity"
+  ]
+}

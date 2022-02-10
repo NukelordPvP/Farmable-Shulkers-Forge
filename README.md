@@ -1,15 +1,3 @@
-Checkout my other Mods/Modpacks!
-
-Blood N Wine 2 Lite 1.18.1 [WIP] (click me)
-
-Blood N Wine 2 1.16.5 (click me)
-
-Blood N Wine 1.12.2 (click me)
-
-Farlands [FORGE/FABRIC] (click me)
-
- 
-
 This port was permitted by the MIT License.
 
 Logo
